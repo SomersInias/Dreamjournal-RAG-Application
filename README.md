@@ -49,7 +49,7 @@ This application provides a user-friendly interface using **Streamlit** to inter
 This workflow ensures an intuitive and effective way to interact with dream journal data, leveraging AI-driven retrieval and analysis.
 
 ## Usage
-- Run the[Dreamjournal_QA_app](https://github.com/SomersInias/Dreamjournal-RAG-Application/blob/main/Dreamjournal_QA_app.ipynb) in google colab
+- Run the [Dreamjournal_QA_app](https://github.com/SomersInias/Dreamjournal-RAG-Application/blob/main/Dreamjournal_QA_app.ipynb) in google colab
 - Provide API keys for Open AI and ngrok
 - Upload a dream journal in PDF format. (Note: The code is currently optimized for a PDF document where each page contains a single dream, with each dream ending with the "/end" marker.)
 - Ask questions about your dreams.
