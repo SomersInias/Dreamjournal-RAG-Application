@@ -39,7 +39,7 @@ This application provides a user-friendly interface using **Streamlit** to inter
 5. **Processing the Query**
    - Based on the classification, the system executes the relevant function:
      - **Count Dreams**: Uses NLP to analyze dream journal entries and count how many of them are related to a specified topic by checking for variations of the topic and handling both positive and negated queries. 
-     - **Retrieve Full Dream**: Fetches the complete dream entry from the database and returns it to the user.
+     - **Retrieve Full Dream**: Retrieves the complete dream entry from the database and returns it to the user.
      - **Analyze Dreams**:  Analyzes the dream journal using Spacy to generate word frequency plots, identifying and visualizing the most commonly used words.
      - **QA (Question-Answering)**: Extracts and generates answers based on the user's questions and the dream journal, utilizing a RAG to provide detailed responses about specific dream content.
 
