@@ -53,3 +53,18 @@ This workflow ensures an intuitive and effective way to interact with dream jour
 - Provide API keys for Open AI and ngrok
 - Upload a dream journal in PDF format. (Note: The code is currently optimized for a PDF document where each page contains a single dream, with each dream ending with the "/end" marker.)
 - Ask questions about your dreams.
+
+## Demo
+
+Here are some short demo videos showcasing the project (Note: These are GIFs with a low frame rate.) 
+
+
+![demodreamjournal1](https://github.com/user-attachments/assets/7f308d42-c49c-46de-83f8-42f41ba1090f)
+
+![demodreamjournal2](https://github.com/user-attachments/assets/bef20da1-c62a-46b0-96e7-d796b5c36164)
+
+![demodreamjournal3](https://github.com/user-attachments/assets/d2f1485e-e8d8-4190-ae41-c748c37b9693)
+
+
+
+
